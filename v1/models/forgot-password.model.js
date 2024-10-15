@@ -18,4 +18,3 @@ const ForgotPassword = mongoose.model(
 );
 
 module.exports = ForgotPassword;
-

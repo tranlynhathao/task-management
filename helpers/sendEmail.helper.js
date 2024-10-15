@@ -25,4 +25,3 @@ module.exports.sendEmail = (email, subject, text) => {
     }
   });
 };
-

@@ -187,4 +187,3 @@ module.exports.list = async (req, res) => {
     users: users,
   });
 };
-

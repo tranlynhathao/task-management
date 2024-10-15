@@ -22,4 +22,3 @@ module.exports.generateRandomNumber = (length) => {
 
   return result;
 };
-
